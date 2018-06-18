@@ -1,2 +1,2 @@
 # Arbitrage
-Arbitrage alogorithm based programming
+Arbitrage algorithm based programming
