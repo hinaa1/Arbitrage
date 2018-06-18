@@ -1,0 +1,6 @@
+c:\users\shady\documents\visual studio 2013\Projects\currency\currency\bin\Debug\currency.exe.config
+c:\users\shady\documents\visual studio 2013\Projects\currency\currency\bin\Debug\currency.exe
+c:\users\shady\documents\visual studio 2013\Projects\currency\currency\bin\Debug\currency.pdb
+c:\users\shady\documents\visual studio 2013\Projects\currency\currency\obj\Debug\currency.csprojResolveAssemblyReference.cache
+c:\users\shady\documents\visual studio 2013\Projects\currency\currency\obj\Debug\currency.exe
+c:\users\shady\documents\visual studio 2013\Projects\currency\currency\obj\Debug\currency.pdb
