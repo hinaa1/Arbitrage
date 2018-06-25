@@ -13,10 +13,10 @@ Group Members:
 
 Use the code is working:
 
-Step # 1: Firstly user will input the amount with respect to our currency.
+Step # 1: Firstly user will take three inputs of three different countries  .
 
-Step # 2: Secondly it will be given option to select the currency.
+Step # 2: Secondly we apply cross rate .
 
-step # 3: Then it will be change with respect to selected currency.
+step # 3: Then obtained the profit.
 
-Step # 4: Ouput will be shown with selected currency amount.
+
